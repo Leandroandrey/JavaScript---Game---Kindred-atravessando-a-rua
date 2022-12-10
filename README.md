@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Lógica de programação: laços e listas com Javascript
 
 Rápida descrição do objetivo de fazer esse projeto
 
