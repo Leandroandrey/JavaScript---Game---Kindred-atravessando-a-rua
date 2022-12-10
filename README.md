@@ -14,10 +14,10 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Crie um jogo do zero, com animações, pontuação e sons
-Saiba como adicionar imagens no P5 Js
-Aprenda na prática como usar listas (arrays)
-Entenda como evitar código duplicado com laços de repetição
+Crie um jogo do zero, com animações, pontuação e sons<br />
+Saiba como adicionar imagens no P5 Js<br />
+Aprenda na prática como usar listas (arrays)<br />
+Entenda como evitar código duplicado com laços de repetição<br />
 Desenvolva sua lógica de programação
 
 Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
