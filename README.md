@@ -1,7 +1,5 @@
 # Lógica de programação: laços e listas com Javascript
 
-Rápida descrição do objetivo de fazer esse projeto
-
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Laços e listas com JavaScript**
