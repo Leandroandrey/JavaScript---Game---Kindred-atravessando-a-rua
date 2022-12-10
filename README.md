@@ -4,14 +4,21 @@ Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :sparkles: Nome        | **Laços e listas com JavaScript**
+| :label: Tecnologias | JavaScript (tecnologias utilizadas)
+| :rocket: URL         | https://cursos.alura.com.br/user/Leandroandrey/course/javascript-listas-lacos/certificate
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](![Screenshot_4](https://user-images.githubusercontent.com/65931981/206862070-868e44b1-311a-45b4-8746-f853dd3b64b0.png)#vitrinedev)
 
 ## Detalhes do projeto
 
+Crie um jogo do zero, com animações, pontuação e sons
+Saiba como adicionar imagens no P5 Js
+Aprenda na prática como usar listas (arrays)
+Entenda como evitar código duplicado com laços de repetição
+Desenvolva sua lógica de programação
+
 Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+![Screenshot_4](https://user-images.githubusercontent.com/65931981/206862070-868e44b1-311a-45b4-8746-f853dd3b64b0.png)
