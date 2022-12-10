@@ -1,6 +1,6 @@
 # Lógica de programação: laços e listas com Javascript
 
-| :placard: Vitrine.Dev |  https://cursos.alura.com.br/vitrinedev/Leandroandrey   |
+| :placard: Vitrine.Dev| https://cursos.alura.com.br/vitrinedev/Leandroandrey
 | -------------  | --- |
 | :sparkles: Nome        | **Laços e listas com JavaScript**
 | :label: Tecnologias | JavaScript (tecnologias utilizadas)
