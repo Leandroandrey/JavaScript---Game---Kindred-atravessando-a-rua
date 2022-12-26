@@ -2,8 +2,8 @@
 
 | :placard: Vitrine.Dev| https://cursos.alura.com.br/vitrinedev/Leandroandrey
 | -------------  | --- |
-| :sparkles: Nome        | **Laços e listas com JavaScript**
-| :label: Tecnologias | JavaScript (tecnologias utilizadas)
+| :sparkles: Nome      | **Game Kindred - JavaScript**
+| :label: Tecnologias  | JavaScript (tecnologias utilizadas)
 | :rocket: URL         | https://cursos.alura.com.br/user/Leandroandrey/course/javascript-listas-lacos/certificate
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
